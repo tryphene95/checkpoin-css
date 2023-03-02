@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    border: 1px solid green;
+    height: 100vh;
+}
+
+
+
+.container {
+    border: 1px soid red;
+    height: 500px;
+    width: 900px;
+}
+
+.box{
+    border: 1px solid blue;
+    height: 500px;
+    width: 33%;
+    display: inline-block;
+}
+.box-1{
+    background-color: orange;
+    color: white;
+}
+.box-2{
+   background-color: turquoise;
+   color:white;
+}
+.box-3{
+  background-color: teal;
+  color: white;
+}
+#titlle{
+    margin: 30px;
+}
+#suit{
+    margin: 40px;
+}
+#projet{
+    margin: 40px;
+}
+#bou{
+    margin: 30px;
+}
+#bol{
+    margin: 40px;
+}
+#sac{
+    margin: 40px;
+}
+#cellule{
+    margin: 30px;
+}
+#cave{
+    margin: 40px;
+}
+#cool{
+    margin: 40px;
+}
+.btn{
+    background-color: white;
+    border-radius: 1rem;
+    padding: 0.7rem;
+    width: 150px;
+}
+.luxury-btn{
+    color: hsl(170, 100%, 17%);
+}
+.Suv-btn{
+    color: hsl(184, 100%, 22%);
+}
+.sedans-btn{
+    color: hsl(31, 100%, 52%);
+}
+#titlle{
+    margin: 30px;
+}
+#suit{
+    margin: 40px;
+}
+#projet{
+    margin: 40px;
+}
+#bou{
+    margin: 30px
+}
+#bol{
+    margin: 40px;
+}
+#sac{
+    margin: 40px;
+}
+#cellule{
+    margin: 30px;
+}
+#cave{
+    margin: 40px;
+}
+#cool{
+    margin: 40px;
+}
+#in{
+    margin-top: 100px;
+    margin-left: 40px;
+}
+#ij{
+    margin-top: 100px;
+    margin-left: 40px;
+}
+#ip{
+    margin-top: 100px;
+    margin-left: 40px;
+}
